@@ -1,3 +1,7 @@
+body{
+    background-color: cadetblue;
+}
+
 #clockcontainer{
     position: relative;
     margin: auto;
