@@ -13,7 +13,7 @@ body{
 }
 #hour, #minute, #second{
     position: absolute;
-    background: black;
+    background: green;
     border-radius: 10px;
     transform-origin: bottom;
 
